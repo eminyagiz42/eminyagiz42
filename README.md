@@ -1,9 +1,9 @@
-# Hi, I'm Emin Ya??z! ?
+# Hi, I'm Emin Yagiz! ?
 ## ? About Me
 
 I am a Java Developer with over 6 years of experience in various global projects and diverse teams. I have specialized in Spring Boot and SAP Commerce/Hybris development, an ecommerce platform built on the Spring MVC Framework.
 
-- you can check my curated list of delightful SAP Commerce resource on [awesome-hybris](https://github.com/eminyagiz42/awesome-hybris)
+- You can check my curated list of delightful SAP Commerce resource on [awesome-hybris](https://github.com/eminyagiz42/awesome-hybris)
 
 <a href="https://www.linkedin.com/in/eminyagiz/">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
@@ -32,12 +32,12 @@ I am a Java Developer with over 6 years of experience in various global projects
 
 <h2 align="center">? My GitHub Stats</h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eminyagiz42&theme=indian-flag" alt="Emin Ya??z" height="250px" width="45%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eminyagiz42&theme=indian-flag" alt="Emin Yagiz" height="250px" width="45%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=eminyagiz42&theme=flag-india&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
 </div>
 
 </br>  
 
 <!-- <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminyagiz42&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Emin Ya??z" height="275px" width="30%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminyagiz42&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Emin Yagiz" height="275px" width="30%"/>
 </div>-->
