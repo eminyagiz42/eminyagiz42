@@ -30,7 +30,7 @@ I am a Java Developer with over 6 years of experience in various global projects
 
 <br>
 
-<h2 align="center">? My GitHub Stats</h2>
+<h2 align="center"> :bar_chart: My GitHub Stats</h2>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eminyagiz42&theme=indian-flag" alt="Emin Yagiz" height="250px" width="45%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=eminyagiz42&theme=flag-india&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
