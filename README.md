@@ -3,7 +3,7 @@
 
 I am a Java Developer with over 7 years of experience in various global projects and diverse teams. I have specialized in Spring Boot and SAP Commerce/Hybris development, an ecommerce platform built on the Spring MVC Framework.
 
-- Check my curated list of delightful SAP Commerce resource on [awesome-hybris](https://github.com/eminyagiz42/awesome-hybris)
+- Check my curated list of delightful SAP Commerce resource on [awesome-sap-commerce](https://github.com/eminyagiz42/awesome-sap-commerce)
 
 <a href="https://www.linkedin.com/in/eminyagiz/">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
