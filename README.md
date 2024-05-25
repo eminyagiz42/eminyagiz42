@@ -1,7 +1,7 @@
 # Hi, I'm Emin Yagiz! :wave:
 ## :rocket: About Me
 
-I am a Java Developer with over 6 years of experience in various global projects and diverse teams. I have specialized in Spring Boot and SAP Commerce/Hybris development, an ecommerce platform built on the Spring MVC Framework.
+I am a Java Developer with over 7 years of experience in various global projects and diverse teams. I have specialized in Spring Boot and SAP Commerce/Hybris development, an ecommerce platform built on the Spring MVC Framework.
 
 - Check my curated list of delightful SAP Commerce resource on [awesome-hybris](https://github.com/eminyagiz42/awesome-hybris)
 
