@@ -20,6 +20,7 @@ I am a Java Developer with over 7 years of experience in various global projects
 <span><h2 align="center">Languages and Tools:</h2>
 <br>
 <p align="center">
+  
 <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/java/java.png" alt="Java" width="55px" height="55px"/>
 <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/spring-boot/spring-boot.png" alt="Spring Boot Logo" width="55px" height="55px"/>
 <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/groovy/groovy.png" alt="Groovy Logo" width="65px" height="65px"/>
@@ -28,6 +29,10 @@ I am a Java Developer with over 7 years of experience in various global projects
 <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/gradle/gradle.png" alt="Gradle Logo" width="50px" height="50px"/>
 <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/git/git.png" alt="Git Logo" width="60px" height="60px"/>
 <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/intellij-idea/intellij-idea.png" alt="Intellij Logo" width="42px" height="42px"/>
+<img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/javascript/javascript.png" alt="Javascript Logo" width="40px" height="40px"/>
+<img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/selenium/selenium.png" alt="Selenium Logo" width="40px" height="40px"/>
+<img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/ubuntu/ubuntu.png" alt="Ubuntu Logo" width="50px" height="50px"/>
+
 </p></span>
 
 <br>
